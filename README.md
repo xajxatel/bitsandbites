@@ -22,7 +22,7 @@ bitsandbites is a Flutter application designed to streamline the process of orde
   <img src="https://github.com/xajxatel/bitsandbites/assets/137952206/fc56b670-a73f-41ff-984f-f46bd05bed3b" width="200" />
   <img src="https://github.com/xajxatel/bitsandbites/assets/137952206/a9c458be-67f1-4ef8-a1cf-4d52fce84547" width="200" />
   <img src="https://github.com/xajxatel/bitsandbites/assets/137952206/42c2d94b-e21c-44b9-ad93-e1985d62df42" width="200" />
-    <img src="https://github.com/xajxatel/bitsandbites/assets/137952206/f7020859-436c-4472-829b-78707e079b26" width="200" />
+    <img src="https://github.com/xajxatel/bitsandbites/assets/137952206/8d8fee84-e107-4d13-af41-2bc4d2b9b9a6" width="200" />
 </div>
 
 ### Vendor Mode
