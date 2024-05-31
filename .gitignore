@@ -1,0 +1,93 @@
+# Firebase configuration files
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+lib/firebase_options.dart
+
+# Firebase
+firebase.json
+.firebaserc
+firebase-debug.log
+**/firestore.indexes.json
+**/firestore.rules
+**/storage.rules
+
+# Flutter
+.dart_tool/
+.build/
+.idea/
+.packages
+.pub/
+build/
+# Temporary files
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Android
+*.iml
+.gradle/
+local.properties
+.idea/
+.idea/workspace.xml
+.idea/libraries
+.idea/modules.xml
+.idea/.name
+.idea/misc.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/caches/build_file_checksums.ser
+*.log
+*.keystore
+*.jks
+*.jar
+*.apk
+*.ap_
+
+# iOS
+*.mode1v3
+*.mode2v3
+*.pbxuser
+*.xcworkspace
+*.xcuserdata
+*.xcuserdatad/
+*.swp
+.build/
+DerivedData/
+.idea/
+
+# Web
+.dart_tool/
+.build/
+.packages
+.pub/
+build/
+node_modules/
+yarn-error.log
+.yarn-integrity
+
+# JetBrains IDEs
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# VS Code
+.vscode/
+
+# General backup files
+*.bak
+*.bak2
+*.backup
+*~
+# Hidden files
+.*.sw?
+*.swo
+*.swn
+*.swp
+*.swpx
+.*.un~
