@@ -1,6 +1,17 @@
 # bits and bites
 
-bitsandbites is a Flutter application designed to streamline the process of ordering food from local vendors at BITS Hyderabad. The app allows students to place orders online and receive notifications when their food is ready or delivered. The application consists of separate interfaces for foodies and vendors
+bitsandbites is a Flutter application designed to streamline the process of ordering food from local vendors at BITS Hyderabad. The app allows students to place orders online, make payments via UPI, and receive notifications when their food is ready or delivered. The application consists of separate interfaces for buyers, sellers, and administrators.
+
+<div style="display: flex; justify-content: center;">
+  <video width="300" controls>
+    <source src="https://github.com/xajxatel/bitsandbites/assets/137952206/9857c28a-19fc-4063-a8fb-e4aba27bf9e7" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <video width="300" controls>
+    <source src="https://github.com/xajxatel/bitsandbites/assets/137952206/5e11bbce-c176-4378-bef5-fffa89b469cb" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 <div align="center">
   <img src="https://github.com/xajxatel/bitsandbites/assets/137952206/17f787e5-516a-4d5c-8e43-62e80e7cb0e7" width="200" />
@@ -13,8 +24,8 @@ bitsandbites is a Flutter application designed to streamline the process of orde
 ### Foodie Mode
 - **Browse Menus**: View menus from various food outlets on campus.
 - **Place Orders**: Add items to the cart and place orders.
-- **Order Tracking**: Track the status of your order and receive notifications and view ordr history.
-- **Expenses Tracking** : Track daily , monthly and lifetime expenses on the app
+- **Order Tracking**: Track the status of your order and receive notifications and view order history.
+- **Expenses Tracking**: Track daily, monthly, and lifetime expenses on the app.
 
 <div align="center">
   <img src="https://github.com/xajxatel/bitsandbites/assets/137952206/75ee80ba-b351-477f-b529-680485e2deee" width="200" />
@@ -27,8 +38,8 @@ bitsandbites is a Flutter application designed to streamline the process of orde
 - **Manage Menu**: Add, edit, and remove menu items.
 - **Order Management**: View and manage incoming orders.
 - **Profile Management**: Update shop details and availability status.
-- **Earnings Tracking** : Track daily , monthly and lifetime earnings on the app
-  
+- **Earnings Tracking**: Track daily, monthly, and lifetime earnings on the app.
+
 <div align="center">
   <img src="https://github.com/xajxatel/bitsandbites/assets/137952206/298f4c0c-b784-47ce-a139-9779572f7fb8" width="200" />
   <img src="https://github.com/xajxatel/bitsandbites/assets/137952206/4f88e9e3-a5ca-4ed2-bd6e-a18f1a206308" width="200" />
