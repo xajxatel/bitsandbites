@@ -3,8 +3,8 @@
 bitsandbites is a Flutter application designed to streamline the process of ordering food from local vendors at BITS Hyderabad. The app allows students to place orders online, make payments via UPI, and receive notifications when their food is ready or delivered. The application consists of separate interfaces for buyers, sellers, and administrators.
 
 <div align="center">
-  <img src="https://github.com/yourusername/bitsandbites/assets/137952206/9857c28a-19fc-4063-a8fb-e4aba27bf9e7.gif" width="400" />
-  <img src="https://github.com/yourusername/bitsandbites/assets/137952206/5e11bbce-c176-4378-bef5-fffa89b469cb.gif" width="400" />
+  <img src="https://github.com/xajxatel/bitsandbites/assets/137952206/9857c28a-19fc-4063-a8fb-e4aba27bf9e7.gif" width="400" />
+  <img src="https://github.com/xajxatel/bitsandbites/assets/137952206/5e11bbce-c176-4378-bef5-fffa89b469cb.gif" width="400" />
 </div>
 
 <div align="center">
