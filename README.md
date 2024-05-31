@@ -2,8 +2,11 @@
 
 bitsandbites is a Flutter application designed to streamline the process of ordering food from local vendors at BITS Hyderabad. The app allows students to place orders online, make payments via UPI, and receive notifications when their food is ready or delivered. The application consists of separate interfaces for buyers, sellers, and administrators.
 
+<div align="center">
+  <img src="https://github.com/yourusername/bitsandbites/assets/137952206/9857c28a-19fc-4063-a8fb-e4aba27bf9e7.gif" width="400" />
+  <img src="https://github.com/yourusername/bitsandbites/assets/137952206/5e11bbce-c176-4378-bef5-fffa89b469cb.gif" width="400" />
+</div>
 
-https://github.com/xajxatel/bitsandbites/assets/137952206/5e11bbce-c176-4378-bef5-fffa89b469cb
 <div align="center">
   <img src="https://github.com/xajxatel/bitsandbites/assets/137952206/17f787e5-516a-4d5c-8e43-62e80e7cb0e7" width="200" />
   <img src="https://github.com/xajxatel/bitsandbites/assets/137952206/854a8526-dc74-4b18-92a8-6ab96b3cb4ee" width="200" />
@@ -25,7 +28,6 @@ https://github.com/xajxatel/bitsandbites/assets/137952206/5e11bbce-c176-4378-bef
   <img src="https://github.com/xajxatel/bitsandbites/assets/137952206/42c2d94b-e21c-44b9-ad93-e1985d62df42" width="200" />
 </div>
 
-
 ### Vendor Mode
 - **Manage Menu**: Add, edit, and remove menu items.
 - **Order Management**: View and manage incoming orders.
@@ -38,7 +40,6 @@ https://github.com/xajxatel/bitsandbites/assets/137952206/5e11bbce-c176-4378-bef
   <img src="https://github.com/xajxatel/bitsandbites/assets/137952206/11255c69-95cd-4633-9a40-310b0be5b713" width="200" />
   <img src="https://github.com/xajxatel/bitsandbites/assets/137952206/bec595c7-7993-43c8-9aac-32cf7294b644" width="200" />
 </div>
-
 
 ### Frontend
 - Flutter
