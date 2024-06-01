@@ -1,6 +1,6 @@
 # bits and bites
 
-bitsandbites is a Flutter application designed to streamline the process of ordering food from local vendors at BITS Hyderabad. The app allows students to place orders online and receive notifications when their food is ready or delivered. The application consists of separate interfaces for buyers and sellers.
+bitsandbites is a Flutter application designed to streamline the process of ordering food from local vendors at BITS Hyderabad. The app allows students to place orders online and receive notifications when their food is ready. The application consists of separate interfaces for buyers and sellers.
 
   
 <div align="center">
