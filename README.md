@@ -52,5 +52,5 @@ For UI walkThrough Checkout main repository
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/yourusername/bitsandbites.git
+   git clone https://github.com/xajxatel/bitsandbites.git
    cd bitsandbites
